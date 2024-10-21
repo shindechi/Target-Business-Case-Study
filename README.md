@@ -20,9 +20,9 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________
 -𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐅𝐚𝐜𝐞𝐝:
 _________________________________________________________________________________________________________________________________________
-1.𝐂𝐨𝐝𝐢𝐧𝐠 𝐋𝐢𝐦𝐢𝐭𝐚𝐭𝐢𝐨𝐧𝐬: Certain queries, such as month-on-month state-wise orders, were challenging to code effectively, which required alternative methods.
+- 𝐂𝐨𝐝𝐢𝐧𝐠 𝐋𝐢𝐦𝐢𝐭𝐚𝐭𝐢𝐨𝐧𝐬: Certain queries, such as month-on-month state-wise orders, were challenging to code effectively, which required alternative methods.
 
-2.𝐃𝐚𝐭𝐚 𝐆𝐚𝐩𝐬: Incomplete time slot allocations and some missing data points impacted the overall analysis, leading to gaps in customer behaviour insights.
+- 𝐃𝐚𝐭𝐚 𝐆𝐚𝐩𝐬: Incomplete time slot allocations and some missing data points impacted the overall analysis, leading to gaps in customer behaviour insights.
 
-3.𝐆𝐫𝐚𝐩𝐡𝐢𝐧𝐠 𝐈𝐬𝐬𝐮𝐞𝐬: Some visualizations couldn't be generated via code, so Excel was used to plot graphs and make sense of trends, ensuring clarity in presenting the data.
+- 𝐆𝐫𝐚𝐩𝐡𝐢𝐧𝐠 𝐈𝐬𝐬𝐮𝐞𝐬: Some visualizations couldn't be generated via code, so Excel was used to plot graphs and make sense of trends, ensuring clarity in presenting the data.
 
